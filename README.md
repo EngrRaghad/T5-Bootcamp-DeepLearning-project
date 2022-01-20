@@ -1,6 +1,5 @@
-# T5-Bootcamp-DeepLearning-project
+# Proposal: T5-Bootcamp-DeepLearning-project
 Final project - SDAIA Academy - Bootcamp Data Science
-# Deep-Learning_Eye-For-Blind
 
 ## Introduction:
 The project, "Eye for Blind," aims to create a deep learning model that can explain the content of an image in the form of speech through caption generation with the attention mechanism on the Flickr8K data set
